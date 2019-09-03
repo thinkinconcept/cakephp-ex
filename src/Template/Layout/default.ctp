@@ -210,7 +210,7 @@ pre {
 <section class='container'>
 
         <hgroup>
-           <h1>Welcome to your CSS PHP application</h1>
+           <h1>Welcome to the CSS PHP application</h1>
         </hgroup>
 
         <?= $this->fetch('content') ?>
